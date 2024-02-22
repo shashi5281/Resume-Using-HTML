@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    text-decoration-line:underline;
+    
+
+}
+
+*{
+    background-color:#E8F4F7;
+}
+h2{
+    background-color:rgb(157, 229, 229);
+    border-radius: 300px;
+    padding: 5px;
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+
+}
